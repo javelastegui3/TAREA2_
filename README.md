@@ -45,7 +45,7 @@ Lo que nos indica la grafica es que la corriente y el voltaje son proporcionales
 
 Tomamos un punto cualquiera y aplicamos la formula 
 R=V/I
-R_1=2/4   
+R1=2/4   
 
 
 
