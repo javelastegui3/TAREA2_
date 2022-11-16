@@ -3,17 +3,17 @@ SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 
 1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando 
 
-(a) el voltaje se triplica 
+  (a) el voltaje se triplica 
 
-(b) el voltaje se reduce en 75%
+  (b) el voltaje se reduce en 75%
 
-(c) la resistencia se duplica 90
+  (c) la resistencia se duplica 90
 
-(d) la resistencia se reduce en 35% 
+  (d) la resistencia se reduce en 35% 
 
-(e) el voltaje se duplica y la resistencia se reduce a la mitad
+  (e) el voltaje se duplica y la resistencia se reduce a la mitad
 
-(f) el voltaje y la resistencia se duplican
+  (f) el voltaje y la resistencia se duplican
 
 3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos. 
 
@@ -31,25 +31,25 @@ SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
  
  
 13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia: 
-(a) 1.0 Ω
+  (a) 1.0 Ω
 
-(b) 5.0 Ω
+  (b) 5.0 Ω
 
-(c) 20 Ω
+  (c) 20 Ω
 
-(d) 100 Ω
+  (d) 100 Ω
 
 15. Determine la corriente en cada caso: 
 
-(a) V= 5 V,R = 1.0 Ω 
+  (a) V= 5 V,R = 1.0 Ω 
 
-(b) V= 50 V,R = 1.0 Ω
+  (b) V= 50 V,R = 1.0 Ω
 
-(c) V= 250 V,R = 5.6 MΩ
+  (c) V= 250 V,R = 5.6 MΩ
 
-(d) V= 15 V,R =  10 Ω
+  (d) V= 15 V,R =  10 Ω
 
-(e) V= 30 V,R = 1.0 kΩ
+  (e) V= 30 V,R = 1.0 kΩ
 
 
 17. Se conecta un resistor de 10Ω a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor? 
@@ -63,15 +63,15 @@ SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 
 23. Calcule el voltaje para cada valor de I y R: 
 
-(a) I= 2 A,R = 18 Ω
+  (a) I= 2 A,R = 18 Ω
 
-(b) I= 2.5 A,R = 680 Ω
+  (b) I= 2.5 A,R = 680 Ω
 
-(c) I= 0.1 mA,R = 560 Ω
+  (c) I= 0.1 mA,R = 560 Ω
 
-(d) I= 5 A,R = 56 Ω
+  (d) I= 5 A,R = 56 Ω
 
-(e) I= 0.6 A,R = 47 Ω
+  (e) I= 0.6 A,R = 47 Ω
 
 
 
@@ -80,32 +80,32 @@ SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 
 *27. Se conecta una fuente de 6 V a un resistor de 100  mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 . Determine lo siguiente: 
 
-(a) Corriente 
+  (a) Corriente 
 
-(b) Caída de voltaje en el resistor 
+  (b) Caída de voltaje en el resistor 
 
-(c) Caída de voltaje a través de cada tramo de alambre 
+  (c) Caída de voltaje a través de cada tramo de alambre 
 
 
 SECCIÓN 3–4 Cálculo de la resistencia 
 
 29. Calcule la resistencia de un reóstato para cada juego de valores de V e I: 
 
-(a) V = 10 kV,I = 5 A 
+  (a) V = 10 kV,I = 5 A 
 
-(b) V = 500 V,I = 250 mA
+  (b) V = 500 V,I = 250 mA
 
-(c) V = 1 kV,I = 1 mA
+  (c) V = 1 kV,I = 1 mA
 
-(d) V = 7 V,I = 2 mA
+  (d) V = 7 V,I = 2 mA
 
-(e) V = 50 V,I = 500 mA
+  (e) V = 50 V,I = 500 mA
 
 31. En el circuito de la figura 3-23
 
-(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23
+  (a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23
 
-(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+  (b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
  
 33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
 
@@ -145,23 +145,23 @@ encuentran al final del libro. SECCIÓN 4–1 Energía y potencia
 
 7. Convierta las siguientes cantidades en megawatts: 
 
-(a) 1,000,000 W 
+  (a) 1,000,000 W 
 
-(b) 3×10^6
+  (b) 3×10^6
 
-(c) 15×10^7
+  (c) 15×10^7
 
-(d) 8700 kW 
+  (d) 8700 kW 
 
 9. Convierta las siguientes cantidades en microwatts: 
 
-(a) 2 W 
+  (a) 2 W 
 
-(b) 0.0005 W 
+  (b) 0.0005 W 
 
-(c) 0.25 mW 
+  (c) 0.25 mW 
 
-(d) 0.00667 mW 
+  (d) 0.00667 mW 
 
 11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24h, ¿cuántos joules de energía consume? 
 
@@ -189,9 +189,9 @@ SECCIÓN 4–2 Potencia en un circuito eléctrico
 
 25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω. 
 
-(a) ¿Cuánta energía se utiliza en dos minutos? 
+  (a) ¿Cuánta energía se utiliza en dos minutos? 
 
-(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos? 
+  (b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos? 
 
 
 SECCIÓN 4–3 Clasificaciones de potencia en resistores 
