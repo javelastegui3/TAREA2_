@@ -29,13 +29,24 @@ La I no cambia
 
 
 
-3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos. 
+3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
+ 
 V=I∙R
+
 
 5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica? 
 
+(PEGAR GRAFICA)
+Lo que nos indica la grafica es que la corriente y el voltaje son proporcionales, es por eso que va en línea recta 
 
 7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3. 
+
+(PEGAR GRAFICA)
+
+Tomamos un punto cualquiera y aplicamos la formula 
+R=V/I
+R_1=2/4   
+
 
 
 9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo. 
