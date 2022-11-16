@@ -3,20 +3,34 @@ SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 
 1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando 
 
-  (a) el voltaje se triplica 
+(a) el voltaje se triplica 
 
-  (b) el voltaje se reduce en 75%
+La I se triplicará también 
 
-  (c) la resistencia se duplica 90
+(b) el voltaje se reduce en 75% 
 
-  (d) la resistencia se reduce en 35% 
+La I se también se reducirá en 75%
 
-  (e) el voltaje se duplica y la resistencia se reduce a la mitad
+(c) la resistencia se duplica
 
-  (f) el voltaje y la resistencia se duplican
+La I se se reducirá a la mitad	
+
+(d) la resistencia se reduce en 35% 
+
+La I se incrementa un 54%
+
+(e) el voltaje se duplica y la resistencia se reduce a la mitad 
+
+La I se cuadruplicara
+
+(f) el voltaje y la resistencia se duplican
+
+La I no cambia
+
+
 
 3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos. 
-
+V=I∙R
 
 5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica? 
 
