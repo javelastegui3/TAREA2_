@@ -21,7 +21,10 @@ NRC: 10069
 [![3.png](https://i.postimg.cc/3wdHNMvf/3.png)](https://postimg.cc/DWkNpM51)
 
 3. EXPLICACION Y RESOLUCION DE EJERCICOS 
+
   3.1 CAPITULO 3
+  
+  
 SECCIÓN 3–1 La relación de corriente, voltaje y resistencia 
 
 1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando 
@@ -277,9 +280,8 @@ R=110V/(1 I)  =  110Ω
 
 
 
-
-
   3.2 CAPITULO 4
+  
   
 SECCIÓN 4–1 Energía y potencia 
 
