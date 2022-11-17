@@ -1,4 +1,9 @@
 # TAREA2_
+
+[![1.png](https://i.postimg.cc/QMxdqnWc/1.png)](https://postimg.cc/FY8vrppK)
+[![2.png](https://i.postimg.cc/fTnWPb9z/2.png)](https://postimg.cc/G9K18dKV)
+[![3.png](https://i.postimg.cc/3wdHNMvf/3.png)](https://postimg.cc/DWkNpM51)
+
 SECCIÓN 3–1 La relación de corriente, voltaje y resistencia 
 
 1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando 
