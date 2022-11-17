@@ -253,89 +253,208 @@ R=110V/(1 I)  =  110Ω
 
 
 
-
 Cap4
-encuentran al final del libro. SECCIÓN 4–1 Energía y potencia 
+SECCIÓN 4–1 Energía y potencia 
+
 1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere. 
+
+volts(V)=J/C
+
+Amperes (I)=C/s
+
+Potencia=IV
+
+P=C/s*J/C  =   J/s  =  watts
 
 
 3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s? 
 
+P=J/s  
+
+P=350 J/s  =  350W
+
 
 5. ¿A cuántos watts equivalen 1000 J en 50 ms? 
+
+P=J/s
+
+P=(1000 J)/(50∙10^(-3) s)  =  20 kW
 
 
 7. Convierta las siguientes cantidades en megawatts: 
 
-  (a) 1,000,000 W 
+(a) 1,000,000 W 
 
-  (b) 3×10^6
+1〖∙10〗^6  W =  1 MW
 
-  (c) 15×10^7
+(b) 3×10^6
 
-  (d) 8700 kW 
+3 MW
+
+(c) 15×10^7
+
+150〖∙10〗^6  W =  150 MW
+
+(d) 8700 kW 
+
+8.7〖∙10〗^(3+3)  W =  8.7 MW
+
 
 9. Convierta las siguientes cantidades en microwatts: 
 
-  (a) 2 W 
+(a) 2 W 
 
-  (b) 0.0005 W 
+2〖∙10〗^(-6)  W =  2000000 μW
 
-  (c) 0.25 mW 
+(b) 0.0005 W 
 
-  (d) 0.00667 mW 
+0.0005〖∙10〗^(-6)  W =  500 μW
+
+(c) 0.25 mW 
+
+250〖∙10〗^(-3-3)  W =  250 μW
+
+(d) 0.00667 mW 
+
+6.67〖∙10〗^(-3-3)  W =  6.67 μW
+
 
 11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24h, ¿cuántos joules de energía consume? 
+
+J=P*s
+
+J=100〖∙10〗^(-3)  J/s*86400s
+
+J=8.64〖∙10〗^(-3+6)  J
+
+J=8640 J
 
 
 *13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio? 
 
+31 días=1500 kWh
+1 día=x kWh
+
+x=(1500 kWh)/31  =  48.39 kWh
+
+48.39kWh/(24 h)  =  2.02 kW promedio por dia
+
 
 15. Convierta 6700 watts-segundos en kWh. 
+
+6700 watts-s*1h/3600s  =  1.861 Wh
+
+1.861〖∙10〗^3  Wh =  0.001861 kWh
 
 
 SECCIÓN 4–2 Potencia en un circuito eléctrico
 
-
 17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga? 
+
+R=V/I
+
+R=(75 V)/(2 A)  =  37.5Ω
 
 
 19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza? 
 
+P=I*V
+
+P=3 A*120 V =  360W
+
 
 21. Calcule la potencia disipada por un resistor de 10 kΩ que transporta 100 mA. 
+
+P=I^2 R
+
+P=〖(100mA)〗^2*10 kΩ
+
+100000〖∙10〗^((-3)2+3)  W
+
+100〖∙10〗^(-3-3)  W
+
+100 μW
 
 
 23. Se conecta un resistor de 56 Ω entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor? 
 
+P=V^2/R
+
+P=〖(1.5 V)〗^2/(56 Ω)
+
+P=0.0402 W
+
+P=40.2 mW
+
+
 
 25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω. 
 
-  (a) ¿Cuánta energía se utiliza en dos minutos? 
+(a) ¿Cuánta energía se utiliza en dos minutos? 
 
-  (b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos? 
+2min*1h/60min=0.0333
 
+P=V^2/R
+
+P=〖(12 V)〗^2/(10 Ω)
+
+P=14.4 W
+
+W=P*t
+
+W=14.4 W*0.0333h
+
+W=0.479 Wh
+
+(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos? 
+
+Es igual
 
 SECCIÓN 4–3 Clasificaciones de potencia en resistores 
 
 27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué? 
 
+Por lo mínimo un resistor de 12 W, para tener un margen de seguridad del 20%
+
+
 SECCIÓN 4–5 Fuentes de potencia 
 
 29. Una carga de 50 Ω utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia? 
+
+V=√(P*R)
+
+V=√(1 W*50 Ω)
+
+V=7.071 V
 
 
 31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas? 
 
 
 33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
- 
+
+80 Ah =10 xh
+
+x=80Ah/(10 h)
+
+x=8 A
+
 
 35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia? 
+
+EFICIENCIA= ((P(salida))/(P(entrada)))*100%
+
+((400 mW)/(500 mW))*100% =  80%
+
+P(perdida)=P(entrada)-P(salida)
+
+500 mW-400 mW=100 mW
 
 
 *37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia? Localización de fallas y análisis con archivos Multisim Estos problemas requieren del CD-ROM Multisim. 
 
 
+
 39. Abra el archivo P04-39 y determine la corriente, el voltaje y la resistencia. Calcule la potencia con estos valores. 
+
 
