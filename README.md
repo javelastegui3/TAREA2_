@@ -470,6 +470,9 @@ P(perdida)=P(entrada)-P(salida)
 
 
 REFERENCIAS
+Valenzuela Argüelles, R., Vázquez Mantecón, T., & Hernández Mayorga, M. A. (2013). Circuitos eléctricos.
+Juárez, A. R. R. Ley de Ohm.
+Mantilla Quijano, G., & González, H. (1977). Ley de Ohm (aplicación).
 
 
 
