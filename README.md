@@ -35,15 +35,14 @@ V=I∙R
 
 5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica? 
  
- (grafica)
+[![imagen-2022-11-17-005154581.png](https://i.postimg.cc/tCLckQ0x/imagen-2022-11-17-005154581.png)](https://postimg.cc/sv4KfLgj)
  
 Lo que nos indica la grafica es que la corriente y el voltaje son proporcionales, es por eso que va en línea recta 
 
 
 7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3. 
  
- grafica
- 
+[![imagen-2022-11-17-005302778.png](https://i.postimg.cc/HjGtwmJW/imagen-2022-11-17-005302778.png)](https://postimg.cc/p5Z8vgY3)
 
 Tomamos un punto cualquiera y aplicamos la formula 
 R=V/I
@@ -60,6 +59,7 @@ R2=3/1.5     =   2Ω
 
 9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo. 
 
+[![imagen-2022-11-17-005353833.png](https://i.postimg.cc/c4QzFkdk/imagen-2022-11-17-005353833.png)](https://postimg.cc/MvptTDM1)
 
 R=1580    =   1.58kΩ
  
@@ -91,16 +91,21 @@ El voltaje disminuyó 4V
 13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia: 
 
 (a) 1.0 Ω
+
+[![imagen-2022-11-17-005514209.png](https://i.postimg.cc/kggyWTGb/imagen-2022-11-17-005514209.png)](https://postimg.cc/tY8Pjthq)
  
 (b) 5.0 Ω
+
+[![imagen-2022-11-17-005701060.png](https://i.postimg.cc/8P5FH9dN/imagen-2022-11-17-005701060.png)](https://postimg.cc/XXR7N2Dz)
  
 (c) 20 Ω
+
+[![Captura-de-pantalla-2022-11-16-181728.jpg](https://i.postimg.cc/J0t1NwfF/Captura-de-pantalla-2022-11-16-181728.jpg)](https://postimg.cc/CnTT02LC)
  
 (d) 100 Ω
-  
-  GRAFICAS
-  
-  
+
+[![imagen-2022-11-17-005820917.png](https://i.postimg.cc/wMtptXJ8/imagen-2022-11-17-005820917.png)](https://postimg.cc/gLP5Q6NN)
+
 
 15. Determine la corriente en cada caso: 
 
@@ -220,6 +225,8 @@ R=(1 kV)/(1  mA)  =  1 Ω
 (a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23
 (b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
  
+ [![imagen-2022-11-17-005933679.png](https://i.postimg.cc/yYcNvKgq/imagen-2022-11-17-005933679.png)](https://postimg.cc/2VjmSP7T)
+ 
 R=120V/0.8I
 
 R=150 Ω
@@ -244,10 +251,6 @@ R=110V/(1 I)  =  110Ω
 
 
 41. Abra el archivo P03-41 y determine el valor del voltaje de la fuente y la resistencia. 
-
-
-
-
 
 
 
