@@ -487,14 +487,19 @@ P(perdida)=P(entrada)-P(salida)
 39. Abra el archivo P04-39 y determine la corriente, el voltaje y la resistencia. Calcule la potencia con estos valores. 
 
 
+
 4. CONCLUSIONES 
 
 
 
 5. REFERENCIAS
+
 Valenzuela Argüelles, R., Vázquez Mantecón, T., & Hernández Mayorga, M. A. (2013). Circuitos eléctricos.
+
 Juárez, A. R. R. Ley de Ohm.
+
 Mantilla Quijano, G., & González, H. (1977). Ley de Ohm (aplicación).
+
 
 
 
