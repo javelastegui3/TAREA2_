@@ -461,3 +461,21 @@ P(perdida)=P(entrada)-P(salida)
 39. Abra el archivo P04-39 y determine la corriente, el voltaje y la resistencia. Calcule la potencia con estos valores. 
 
 
+
+
+
+REFERENCIAS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
