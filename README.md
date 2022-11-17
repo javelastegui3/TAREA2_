@@ -1,9 +1,23 @@
 # TAREA2_
+UNIVERSIDAD DE LAS FUERZAS ARMADAS  ESPE
+Nombre: Joel Alexander Velastegui Simbaña
+NRC: 10069
+1. OBJETIVOS  
 
+  1.1 OBJETIVOS GENERALES 
+  
+  
+  1.2 OBJETIVOS ESPECIFICOS 
+  
+  
+  
+ 2. MARCO TEORICO 
 [![1.png](https://i.postimg.cc/QMxdqnWc/1.png)](https://postimg.cc/FY8vrppK)
 [![2.png](https://i.postimg.cc/fTnWPb9z/2.png)](https://postimg.cc/G9K18dKV)
 [![3.png](https://i.postimg.cc/3wdHNMvf/3.png)](https://postimg.cc/DWkNpM51)
 
+3. EXPLICACION Y RESOLUCION DE EJERCICOS 
+  3.1 CAPITULO 3
 SECCIÓN 3–1 La relación de corriente, voltaje y resistencia 
 
 1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando 
@@ -261,7 +275,8 @@ R=110V/(1 I)  =  110Ω
 
 
 
-Cap4
+  3.2 CAPITULO 4
+  
 SECCIÓN 4–1 Energía y potencia 
 
 1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere. 
@@ -466,10 +481,11 @@ P(perdida)=P(entrada)-P(salida)
 39. Abra el archivo P04-39 y determine la corriente, el voltaje y la resistencia. Calcule la potencia con estos valores. 
 
 
+4. CONCLUSIONES 
 
 
 
-REFERENCIAS
+5. REFERENCIAS
 Valenzuela Argüelles, R., Vázquez Mantecón, T., & Hernández Mayorga, M. A. (2013). Circuitos eléctricos.
 Juárez, A. R. R. Ley de Ohm.
 Mantilla Quijano, G., & González, H. (1977). Ley de Ohm (aplicación).
