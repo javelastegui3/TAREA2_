@@ -1,7 +1,11 @@
 # TAREA2_
-UNIVERSIDAD DE LAS FUERZAS ARMADAS  ESPE
+                                                    UNIVERSIDAD DE LAS FUERZAS ARMADAS  
+                                                                   ESPE
+
 Nombre: Joel Alexander Velastegui Simbaña
+
 NRC: 10069
+
 1. OBJETIVOS  
 
   1.1 OBJETIVOS GENERALES 
