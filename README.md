@@ -7,7 +7,6 @@ Nombre: Joel Alexander Velastegui Simbaña
 NRC: 10069
 
 1. OBJETIVOS  
-
   1.1 OBJETIVOS GENERALES 
   
   
@@ -272,6 +271,7 @@ R=110V/(1 I)  =  110Ω
 
 37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha? Localización y análisis de fallas con Multisim Estos problemas requieren del CD-ROM Multisim. 
 
+5 lecturas
 
 39. Abra el archivo P03-39 y mida los valores de resistencia de los resistores. 
 
@@ -459,6 +459,18 @@ V=7.071 V
 
 31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas? 
 
+P=V^2/R
+
+P=〖1.25〗^2/10Ω
+
+P=0.156 
+
+W=P*t
+
+W=0.156W*32400s
+
+W=50544 J
+
 
 33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
 
@@ -482,13 +494,25 @@ P(perdida)=P(entrada)-P(salida)
 
 *37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia? Localización de fallas y análisis con archivos Multisim Estos problemas requieren del CD-ROM Multisim. 
 
+EFICIENCIA= (P(salida)/P(entrada) )
 
+P(entrada)= ((P(salida))/EFICIENCIA)
 
-39. Abra el archivo P04-39 y determine la corriente, el voltaje y la resistencia. Calcule la potencia con estos valores. 
+P(entrada)=2W/0.6
+
+P(entrada)=3.33W
+
+W= 3.33W*24h
+
+W=79.9 Wh
+
+W=0.08 kWh
+
 
 
 4. CONCLUSIONES 
 
+Para finalizar mediante la aplicación de ejercicios conocimos sobre la aplicaion de las leyes de Ohm en nuestros circuitos, y conocimos un poco sobre la historia de la potencia, como se la mide, como se las utiliza y cuales son sus unidades de medida, y tambien descrubrimos un método de muy util al momento de localizar fallas llamado "división a la mitad"
 
 5. REFERENCIAS
 
@@ -497,6 +521,25 @@ Valenzuela Argüelles, R., Vázquez Mantecón, T., & Hernández Mayorga, M. A. (
 Juárez, A. R. R. Ley de Ohm.
 
 Mantilla Quijano, G., & González, H. (1977). Ley de Ohm (aplicación).
+
+Clasificación de resistencias. (2022). Pntic.mec.es. http://fresno.pntic.mec.es/~fagl0000/clasificacion.htm
+
+Resistencias. Resolución de circuitos serie-paralelo.Ley de Ohm. (2022). Sapiensman.com. http://www.sapiensman.com/electrotecnia/problemas8.htm
+
+RESISTORES (R). (n.d.). http://www.itlalaguna.edu.mx/2014/Oferta%20Educativa/Ingenierias/Sistemas/Plan%201997-2004/Ecabas/ecabaspdf/RESISTORES.pdf
+
+Guía de estudio 3: Potencia en continua. (n.d.). http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a03-Potencia.pdf
+
+Energía y Potencia. (2022). Cienciahoy.org.ar. https://www.cienciahoy.org.ar/ch/hoy02/potencia.htm
+
+2.4.- La ley de Ohm. (2022). Xunta.gal. https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido/24_la_ley_de_ohm.html
+
+Ley de Ohm. Resistencia eléctrica. (2022). Educarex.es. https://iesmjuancalero.educarex.es/archivos_insti/recurdptos/tecnolog/electrotenia/t2.htm
+
+Corriente, voltaje y resistencia. (2022). Hsa.org.uk. https://www.hsa.org.uk/electricidad/corriente-voltaje-y-resistencia
+
+
+
 
 
 
