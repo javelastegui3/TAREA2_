@@ -8,9 +8,15 @@ NRC: 10069
 
 1. OBJETIVOS  
   1.1 OBJETIVOS GENERALES 
-  
+
   
   1.2 OBJETIVOS ESPECIFICOS 
+  
+    -	Conocer la Ley de Ohm y definir nuevos conceptos 
+
+    -	Aprender a calcular el voltaje, resistencia y corriente aplicada en un circuito 
+
+    -	Analizar el funcionamiento y aplicación de las leyes en nuestros circuitos
   
   
   
@@ -512,7 +518,8 @@ W=0.08 kWh
 
 4. CONCLUSIONES 
 
-Para finalizar mediante la aplicación de ejercicios conocimos sobre la aplicaion de las leyes de Ohm en nuestros circuitos, y conocimos un poco sobre la historia de la potencia, como se la mide, como se las utiliza y cuales son sus unidades de medida, y tambien descrubrimos un método de muy util al momento de localizar fallas llamado "división a la mitad"
+
+Hemos podido analizar la medición de las magnitudes eléctricas mencionadas en el presente capitulo que son la intensidad, resistencia y voltaje relacionándonos de esta manera y llegando a aplicar lo que es la Ley de ohm. Al estudiar la ley de ohm podemos decir que la intensidad es proporcional al voltaje e inversamente proporcional a la resistencia. Para finalizar mediante la aplicación de ejercicios conocimos sobre como funciona nuestro circuito, y conocimos un poco sobre la historia de la potencia, como se la mide, como se las utiliza y cuales son sus unidades de medida, y tambien descrubrimos un método de muy util al momento de localizar fallas llamado "división a la mitad"
 
 5. REFERENCIAS
 
