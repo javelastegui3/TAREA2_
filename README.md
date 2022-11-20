@@ -7,7 +7,11 @@ Nombre: Joel Alexander Velastegui Simbaña
 NRC: 10069
 
 1. OBJETIVOS  
-  
+ 
+    1.1 Objetivo General
+   comprender mediante la aplicacion de con conceptos y aplicacionde ejercios, la ley de Ohm, energia y potencia, potencia nominal en resistores, caidas de voltaje, conversion de energia en la resitencia, 
+   
+    1.2 Objetivo General
     -	Conocer la Ley de Ohm y definir nuevos conceptos 
 
     -	Aprender a calcular el voltaje, resistencia y corriente aplicada en un circuito 
