@@ -7,10 +7,6 @@ Nombre: Joel Alexander Velastegui Simbaña
 NRC: 10069
 
 1. OBJETIVOS  
-  1.1 OBJETIVOS GENERALES 
-
-  
-  1.2 OBJETIVOS ESPECIFICOS 
   
     -	Conocer la Ley de Ohm y definir nuevos conceptos 
 
