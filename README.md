@@ -221,9 +221,27 @@ V=3A*27Ω =  81V
 
 
 *27. Se conecta una fuente de 6 V a un resistor de 100 mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100. Determine lo siguiente: 
+
+En 12 pies tenemos una R de 0.07 Ω Por dos tramos tenemos una R de 0.14 Ω
+
+R= 100Ω+ 0.14Ω = 100.140Ω =   0.10014 kΩ
+
 (a) Corriente 
+
+I=V/R
+
+I=6V/( 0.10014 kΩ)  =  59.92 mA
+
 (b) Caída de voltaje en el resistor 
+
+V=I*R
+
+V=59.92 mA*100Ω =  5.992V
+
 (c) Caída de voltaje a través de cada tramo de alambre 
+
+V=59.92 mA*0.07 Ω =  4.194 mV
+
 
 
 SECCIÓN 3–4 Cálculo de la resistencia 
