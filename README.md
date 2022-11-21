@@ -283,6 +283,10 @@ R=150 Ω
 
 33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
 
+R=(100 V)/(0.75 A)  =  133Ω
+
+R=(100 V)/(1 A)  =  100Ω
+
 
 35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
 
